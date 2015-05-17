@@ -1,0 +1,3 @@
+app:
+  build: .
+  env_file: ./local.env
