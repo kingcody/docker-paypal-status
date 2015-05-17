@@ -1,2 +1,3 @@
-phil-paypal-docker
-==================
+paypal-docker
+=============
+A containerized paypal account status server
